@@ -161,9 +161,11 @@ notebooks/resultados_*.csv
 notebooks/metricas_*.csv
 notebooks/resumen_*.csv
 notebooks/consolidado_*.parquet
+notebooks/ventas_semanales_reales.csv
 notebooks/*.csv
 notebooks/untitled.py
 notebooks/Untitled*.ipynb
+notebooks/diccionario_costos.csv
 
 # Archivos de reportes (si se regeneran)
 # report/*.pdf
