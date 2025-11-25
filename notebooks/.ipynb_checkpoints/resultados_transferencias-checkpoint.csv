@@ -1,0 +1,3 @@
+origen,destino,cantidad_transferida,costo_total
+TIENDA002,TIENDA001,500,2500.0
+TIENDA004,TIENDA003,300,1500.0

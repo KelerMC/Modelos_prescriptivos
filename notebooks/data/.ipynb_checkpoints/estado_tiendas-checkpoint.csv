@@ -1,0 +1,7 @@
+tienda,capacidad,stock_actual,stock_minimo,stock_maximo,estado
+TIENDA001,3000,,1800.0,3000,normal
+TIENDA002,3000,,1800.0,3000,normal
+TIENDA003,3000,,1800.0,3000,normal
+TIENDA004,3000,,1800.0,3000,normal
+TIENDA005,3000,,1800.0,3000,normal
+TIENDA006,3000,,1800.0,3000,normal

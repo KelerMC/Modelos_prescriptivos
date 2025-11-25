@@ -1,0 +1,7 @@
+"parametro,""valor"",""descripcion"""
+"costo_pedido,""50"",""Costo fijo por realizar un pedido"""
+"costo_mantenimiento_anual,""0.25"",""25% del costo del producto por anio"""
+"costo_almacenamiento_m2,""120"",""Costo por m2 por mes"""
+"costo_transferencia_tienda,""5"",""Costo de transferir entre tiendas"""
+"costo_rotura_stock,""0.3"",""30% del margen perdido"""
+"costo_obsolescencia,""0.15"",""15% de perdida por productos no vendidos"""
